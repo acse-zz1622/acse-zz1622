@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acse-zz1622
 - 👀 I’m interested in Data Science, Remote Sensing Science and Technology, Geography.
-- 🌱 I’m currently learning Applied Computational Science and Engineering
+- 🌱 I’m currently learning Applied Computational Science and Engineering at ICL.
 - 📫 How to reach me : zz1622@ic.ac.uk
 
 <!---
